@@ -89,15 +89,4 @@ export const itemsFaq = [
     answerEs:
       "Los pagos pueden ser hechos en dinero , PIX , o tarjeta de credito. Reservas de mas de 2 dias requieren del pago como garantia del 50% del total , y las reservas de apenas 1 dia requieren que se pague por antecipado el 100%.",
   },
-  {
-    question: "Posso me hospedar acompanhado de animais de estimação?",
-    questionEn: "Can I stay with pets?",
-    questionEs: "¿Puedo hospedarme acompanado por mascotas?",
-    answer: `Nosso hotel é Pet Friendly, e aceitamos no máximo 01 mascote (apenas cachorro ou gato) de pequeno porte até 3 quilos. O responsável deverá apresentar o cartão de vacinação atualizado no momento do check-in e o animalzinho não poderá frequentar áreas de alimentação e nem ficar sozinho no quarto. Será cobrada uma taxa de R$ 100 POR CADA DIARIA por mascote. O hospede ficara responsável por qualquer dano que o animal possa causar no mobiliário ou enxoval do quarto ou hotel. E obrigatório levar o mascote em braços ou com corrente quando estiver fora do quarto. O hotel reserva-se o direito de solicitar que o hóspede retire seu mascote do hotel caso o mesmo veja a causar barulho ou provoquem moléstias aos demais hospedes.
-  `,
-    answerEn:
-      "Yes, our hotel is Pet Friendly! We allow up to 1 small pet (dog or cat), weighing a maximum of 3 kg. You must present an up-to-date vaccination card at check-in. The pet may not frequent the eating areas or be left alone in the room. There will be a charge of R$ 50 per day per pet. The guest is responsible for any damage caused by the animal to furniture or furnishings. It is compulsory to take the animal on your lap or on a leash outside the room. The hotel reserves the right to ask for the animal to be removed if it causes noise or a nuisance to other guests",
-    answerEs:
-      "Si , nuestro hotel es amigable con su mascota , permitimos apenas 1 mascota ( perro o gato )  de pequeño porte , con peso maximo de 3 Kgr.  Es obligatorio presentar la tarjeta de vacunacion actualizada en el momento del check in. La mascota no puede estar en las zonas de sala de desayuno y cocina , o quedarse solo en la habitacion , le sera cobrado un adicional de R$ 50 por cada dia y mascota. El huesped sera responsable por los posibles daños que pueda causar el animal en los muebles o ropas de la habitacion o del hotel. Es obligatorio llevar el animal con collar o en los brazos siempre que este fuera de la habitacion. El huesped sera responsable por los posibles daños que pueda causar el animal en los muebles o ropas de la habitacion o del hotel. Es obligatorio llevar el animal con collar o en los brazos siempre que este fuera de la habitacion",
-  },
 ];
