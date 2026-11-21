@@ -1,0 +1,8 @@
+# OPCIONAL: envia status 503 (manutenção) ao Google, evitando prejuízo de SEO.
+# Redireciona todas as URLs para a página de aviso.
+ErrorDocument 503 /index.html
+Header always set Retry-After "86400"
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/index\.html$
+RewriteRule ^ - [R=503,L]
